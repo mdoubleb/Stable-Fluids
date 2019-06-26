@@ -5,8 +5,8 @@ An interactive UI that simulates fluid motion, based on fluid dynamics equations
 ## Usage
 ### Dependencies
 The program uses the following libraries : 
-[Processing](https://processing.org)
-[MTJ (Matrix Toolkit Java)](https://github.com/fommil/matrix-toolkits-java)
+-[Processing](https://processing.org)
+-[MTJ (Matrix Toolkit Java)](https://github.com/fommil/matrix-toolkits-java)
 You have to add the following JARs to the build path of your project : 
 - core.jar (Processing)
 - sparse-eig-01.1.jar and mtj-0.9.14.jar (MTJ)
